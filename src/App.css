@@ -2,8 +2,9 @@
   text-align: center;
 }
 
-.App-logo {
+#App-logo {
   height: 40vmin;
+  /* animation-iteration-count: 2; */
 }
 
 .App-header {
@@ -20,3 +21,9 @@
 .App-link {
   color: #09d3ac;
 }
+
+/* #yourElement {
+  animation-duration: 3s;
+  animation-delay: 2s;
+  animation-iteration-count: 2;
+} */
